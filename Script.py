@@ -10,7 +10,7 @@ Thats All, i will Provide Movies There...🤓🤪
 
 😎 Powered by MoviezCluB
 
-©️ Maintained By @pepe4598"""
+©️ Maintained By Pepe."""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
@@ -32,7 +32,7 @@ This methord works on any chat, Just type my username and then leave a space and
 
 😎 Powered by MoviezCluB
 
-©️ Maintained By @pepe4598"""
+©️ Maintained By Pepe"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/pepe4598>Pepe</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -42,7 +42,7 @@ This methord works on any chat, Just type my username and then leave a space and
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Source - https://github.com/8769ANG/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/pepe4598>Pepe</a>"""
